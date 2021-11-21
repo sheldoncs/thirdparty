@@ -1,0 +1,445 @@
+Start time: 1627436344700
+400002993,70067234,Aaesha,Clarke
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = aclark46 from Gorepaud
+Student Aaesha Clarke Third Party ID updated from third party id = aclark46 to new third party id = aaesha.clarke
+
+
+400006860,70071835,Aalesha,Adams-Grant
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = aadamsgr from Gorepaud
+Student Aalesha Adams-Grant Third Party ID updated from third party id = aadamsgr to new third party id = aalesha.adams-grant
+
+
+411000829,70034007,Aaliya,Kothdiwala
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = akothdiw from Gorepaud
+Student Aaliya Kothdiwala Third Party ID updated from third party id = akothdiw to new third party id = aaliya.kothdiwala
+
+
+400003625,70068041,Aaliya,Padmore
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = apadmor7 from Gorepaud
+Student Aaliya Padmore Third Party ID updated from third party id = apadmor7 to new third party id = aaliya.padmore
+
+
+413002768,70047933,Aaliyah,Belgrave
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = abelgra8 from Gorepaud
+Student Aaliyah Belgrave Third Party ID updated from third party id = abelgra8 to new third party id = aaliyah.belgrave
+
+
+400008118,70073192,Aaliyah,Bellamy
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = abellam2 from Gorepaud
+Student Aaliyah Bellamy Third Party ID updated from third party id = abellam2 to new third party id = aaliyah.bellamy
+
+
+400007262,70072283,Aaliyah,Best
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = abest27 from Gorepaud
+Student Aaliyah Best Third Party ID updated from third party id = abest27 to new third party id = aaliyah.best
+
+
+400007269,70072290,Aaliyah,Boyce
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = aboyce24 from Gorepaud
+Student Aaliyah Boyce Third Party ID updated from third party id = aboyce24 to new third party id = aaliyah.boyce
+
+
+400004020,70068464,Aaliyah,Clarke
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = aclark48 from Gorepaud
+Student Aaliyah Clarke Third Party ID updated from third party id = aclark48 to new third party id = aaliyah.clarke
+
+
+413000722,70045829,Aaliyah,Coward
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = acoward from Gorepaud
+Student Aaliyah Coward Third Party ID updated from third party id = acoward to new third party id = aaliyah.coward
+
+
+400002005,70066077,Aaliyah,Cox
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = acox11 from Gorepaud
+Student Aaliyah Cox Third Party ID updated from third party id = acox11 to new third party id = aaliyah.cox
+
+
+400006901,70071876,Aaliyah,Duncan
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = aduncan8 from Gorepaud
+Student Aaliyah Duncan Third Party ID updated from third party id = aduncan8 to new third party id = aaliyah.duncan
+
+
+400002507,70066682,Aaliyah,Ealeuthere
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = aealeuth from Gorepaud
+Student Aaliyah Ealeuthere Third Party ID updated from third party id = aealeuth to new third party id = aaliyah.ealeuthere
+
+
+400008769,70074019,Aaliyah,Fitzpatrick
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = afitzpa1 from Gorepaud
+Student Aaliyah Fitzpatrick Third Party ID updated from third party id = afitzpa1 to new third party id = aaliyah.fitzpatrick
+
+
+400004075,70068524,Aaliyah,Gill
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = agill13 from Gorepaud
+Student Aaliyah Gill Third Party ID updated from third party id = agill13 to new third party id = aaliyah.gill
+
+
+400008143,70073217,Aaliyah,Greaves
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = agreav13 from Gorepaud
+Student Aaliyah Greaves Third Party ID updated from third party id = agreav13 to new third party id = aaliyah.greaves
+
+
+400004901,70069292,Aaliyah,Haynes
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = ahayne25 from Gorepaud
+Student Aaliyah Haynes Third Party ID updated from third party id = ahayne25 to new third party id = aaliyah.haynes
+
+
+417000058,70060213,Aaliyah,Holmes
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = aholmes from Gorepaud
+Student Aaliyah Holmes Third Party ID updated from third party id = aholmes to new third party id = aaliyah.holmes
+
+
+400004206,70068656,Aaliyah,Johnson
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = ajohns12 from Gorepaud
+Student Aaliyah Johnson Third Party ID updated from third party id = ajohns12 to new third party id = aaliyah.johnson
+
+
+400002628,70066821,Aaliyah,Joseph
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = ajosep34 from Gorepaud
+Student Aaliyah Joseph Third Party ID updated from third party id = ajosep34 to new third party id = aaliyah.joseph
+
+
+400008379,70073511,Aaliyah,Leacock
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = aleacoc5 from Gorepaud
+Student Aaliyah Leacock Third Party ID updated from third party id = aleacoc5 to new third party id = aaliyah.leacock
+
+
+400008589,70073820,Aaliyah,Mohan
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = amohan3 from Gorepaud
+Student Aaliyah Mohan Third Party ID updated from third party id = amohan3 to new third party id = aaliyah.mohan
+
+
+400006397,70070998,Aaliyah,Thompson
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = athomp23 from Gorepaud
+Student Aaliyah Thompson Third Party ID updated from third party id = athomp23 to new third party id = aaliyah.thompson
+
+
+400000755,70064689,Aaliyah,Thornhill
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = athornh4 from Gorepaud
+Student Aaliyah Thornhill Third Party ID updated from third party id = athornh4 to new third party id = aaliyah.thornhill
+
+
+400000572,70064495,Aaliyah,Toppin
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = atoppin1 from Gorepaud
+Student Aaliyah Toppin Third Party ID updated from third party id = atoppin1 to new third party id = aaliyah.toppin
+
+
+414001174,70051042,Aaliyah,Weekes
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = aweekes8 from Gorepaud
+Student Aaliyah Weekes Third Party ID updated from third party id = aweekes8 to new third party id = aaliyah.weekes
+
+
+400006987,70071962,Aaliyah,Welch
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = awelch8 from Gorepaud
+Student Aaliyah Welch Third Party ID updated from third party id = awelch8 to new third party id = aaliyah.welch
+
+
+400003663,70068085,Aaliyah,Wharton
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = awharto7 from Gorepaud
+Student Aaliyah Wharton Third Party ID updated from third party id = awharto7 to new third party id = aaliyah.wharton
+
+
+400000409,70064305,Aaliyah,Wildgoose
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = awildgo1 from Gorepaud
+Student Aaliyah Wildgoose Third Party ID updated from third party id = awildgo1 to new third party id = aaliyah.wildgoose
+
+
+400000759,70064693,Aaliyah,Williams
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = awilli44 from Gorepaud
+Student Aaliyah Williams Third Party ID updated from third party id = awilli44 to new third party id = aaliyah.williams
+
+
+400007784,70072828,Aaliyah,Yearwood
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = ayearw20 from Gorepaud
+Student Aaliyah Yearwood Third Party ID updated from third party id = ayearw20 to new third party id = aaliyah.yearwood
+
+
+400004626,70063902,Aaliyah,Young
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = ayoung7 from Gorepaud
+Student Aaliyah Young Third Party ID updated from third party id = ayoung7 to new third party id = aaliyah.young
+
+
+400001893,70065948,Aalyah,Bowen
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = abowen11 from Gorepaud
+Student Aalyah Bowen Third Party ID updated from third party id = abowen11 to new third party id = aalyah.bowen
+
+
+400007481,70072525,Aalyiah,Adams
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = aadams12 from Gorepaud
+Student Aalyiah Adams Third Party ID updated from third party id = aadams12 to new third party id = aalyiah.adams
+
+
+409001952,70023722,Aamena,Kothdiwala
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = akothdi1 from Gorepaud
+Student Aamena Kothdiwala Third Party ID updated from third party id = akothdi1 to new third party id = aamena.kothdiwala
+
+
+411001450,70034642,Aamir,Foster
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = afoster3 from Gorepaud
+Student Aamir Foster Third Party ID updated from third party id = afoster3 to new third party id = aamir.foster
+
+
+411004984,70038688,Aamir,Morris
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = amorris8 from Gorepaud
+Student Aamir Morris Third Party ID updated from third party id = amorris8 to new third party id = aamir.morris
+
+
+400002188,70066309,Aarifah,Tota
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = atota from Gorepaud
+Student Aarifah Tota Third Party ID updated from third party id = atota to new third party id = aarifah.tota
+
+
+400005113,70069510,Aarin,Wiltshire
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = awiltsh5 from Gorepaud
+Student Aarin Wiltshire Third Party ID updated from third party id = awiltsh5 to new third party id = aarin.wiltshire
+
+
+411004961,70038649,Aarion,Nicholas
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = anichola from Gorepaud
+Student Aarion Nicholas Third Party ID updated from third party id = anichola to new third party id = aarion.nicholas
+
+
+400005853,70070371,Aaron,Bailey
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = abailey6 from Gorepaud
+Student Aaron Bailey Third Party ID updated from third party id = abailey6 to new third party id = aaron.bailey
+
+
+400001393,70065383,Aaron,Beste
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = abeste from Gorepaud
+Student Aaron Beste Third Party ID updated from third party id = abeste to new third party id = aaron.beste
+
+
+400007270,70072291,Aaron,Boyce
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = aboyce25 from Gorepaud
+Student Aaron Boyce Third Party ID updated from third party id = aboyce25 to new third party id = aaron.boyce
+
+
+400007932,70072994,Aaron,Brathwaite
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = abrath47 from Gorepaud
+Student Aaron Brathwaite Third Party ID updated from third party id = abrath47 to new third party id = aaron.brathwaite
+
+
+413001767,70046900,Aaron,Charles
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = acharl14 from Gorepaud
+Student Aaron Charles Third Party ID updated from third party id = acharl14 to new third party id = aaron.charles
+
+
+409001842,70023612,Aaron,Corbin
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = acorbin3 from Gorepaud
+Student Aaron Corbin Third Party ID updated from third party id = acorbin3 to new third party id = aaron.corbin
+
+
+417001934,70062366,Aaron,Daley
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = adaley2 from Gorepaud
+Student Aaron Daley Third Party ID updated from third party id = adaley2 to new third party id = aaron.daley
+
+
+409003267,70025090,Aaron,Dhanukdharriesingh
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = adhanukd from Gorepaud
+Student Aaron Dhanukdharriesingh Third Party ID updated from third party id = adhanukd to new third party id = aaron.dhanukdharriesingh
+
+
+01711605,70019827,Aaron,Dingswell
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = adingswe from Gorepaud
+Student Aaron Dingswell Third Party ID updated from third party id = adingswe to new third party id = aaron.dingswell
+
+
+416001625,70058394,Aaron,Frederick
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = afrederi from Gorepaud
+Student Aaron Frederick Third Party ID updated from third party id = afrederi to new third party id = aaron.frederick
+
+
+413000263,70045490,Aaron,Garstin
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = agarstin from Gorepaud
+Student Aaron Garstin Third Party ID updated from third party id = agarstin to new third party id = aaron.garstin
+
+
+408002631,70019091,Aaron,Gill
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = agill6 from Gorepaud
+Student Aaron Gill Third Party ID updated from third party id = agill6 to new third party id = aaron.gill
+
+
+400003758,70068193,Aaron,Grainger
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = agraing1 from Gorepaud
+Student Aaron Grainger Third Party ID updated from third party id = agraing1 to new third party id = aaron.grainger
+
+
+412002628,70041813,Aaron,Greenidge
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = agreeni3 from Gorepaud
+Student Aaron Greenidge Third Party ID updated from third party id = agreeni3 to new third party id = aaron.greenidge
+
+
+400004322,70068775,Aaron,Grimes
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = agrimes2 from Gorepaud
+Student Aaron Grimes Third Party ID updated from third party id = agrimes2 to new third party id = aaron.grimes
+
+
+400007969,70073031,Aaron,Harris
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = aharri19 from Gorepaud
+Student Aaron Harris Third Party ID updated from third party id = aharri19 to new third party id = aaron.harris
+
+
+400004585,70069018,Aaron,Haynes
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = ahayne23 from Gorepaud
+Student Aaron Haynes Third Party ID updated from third party id = ahayne23 to new third party id = aaron.haynes
+
+
+417000342,70060571,Aaron,Holder
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = aholde11 from Gorepaud
+Student Aaron Holder Third Party ID updated from third party id = aholde11 to new third party id = aaron.holder
+
+
+409002544,70024315,Aaron,Layne
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = alayne13 from Gorepaud
+Student Aaron Layne Third Party ID updated from third party id = alayne13 to new third party id = aaron.layne
+
+
+400009457,70074746,Aaron,Samuel
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = asamue17 from Gorepaud
+Student Aaron Samuel Third Party ID updated from third party id = asamue17 to new third party id = aaron.samuel
+
+
+408002915,70019428,Aaron,Seaton
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = aseaton1 from Gorepaud
+Student Aaron Seaton Third Party ID updated from third party id = aseaton1 to new third party id = aaron.seaton
+
+
+20044371,31850,Aaron,Smith
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = asmith11 from Gorepaud
+Student Aaron Smith Third Party ID updated from third party id = asmith11 to new third party id = aaron.smith
+
+
+400003471,70067861,Aaron,Trotman
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = atrotm17 from Gorepaud
+Student Aaron Trotman Third Party ID updated from third party id = atrotm17 to new third party id = aaron.trotman
+
+
+400004974,70069365,Aaron,Yearwood
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = ayearw19 from Gorepaud
+Student Aaron Yearwood Third Party ID updated from third party id = ayearw19 to new third party id = aaron.yearwood
+
+
+416000732,70057462,Aaryanna,Brown
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = abrown9 from Gorepaud
+Student Aaryanna Brown Third Party ID updated from third party id = abrown9 to new third party id = aaryanna.brown
+
+
+400000998,70064950,Aasemah,Bhana
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = abhana1 from Gorepaud
+Student Aasemah Bhana Third Party ID updated from third party id = abhana1 to new third party id = aasemah.bhana
+
+
+415000317,70053747,Aautumn,Wharton
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = awharto5 from Gorepaud
+Student Aautumn Wharton Third Party ID updated from third party id = awharto5 to new third party id = aautumn.wharton
+
+
+20053751,70004975,Aba,Scotland
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = ascotla3 from Gorepaud
+Student Aba Scotland Third Party ID updated from third party id = ascotla3 to new third party id = aba.scotland
+
+
+00682506,2223531,Abayomi,Ajene
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = aajene from Gorepaud
+Student Abayomi Ajene Third Party ID updated from third party id = aajene to new third party id = abayomi.ajene
+
+
+400008356,70073488,Abayomi,Harper
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = aharper9 from Gorepaud
+Student Abayomi Harper Third Party ID updated from third party id = aharper9 to new third party id = abayomi.harper
+
+
+409002310,70024081,Abbas,Dabhelia
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = adabheli from Gorepaud
+Student Abbas Dabhelia Third Party ID updated from third party id = adabheli to new third party id = abbas.dabhelia
+
+
+409000348,70021935,Abbey,Greene
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = agreen13 from Gorepaud
+Student Abbey Greene Third Party ID updated from third party id = agreen13 to new third party id = abbey.greene
+
+
+406002663,70008646,Abbie,Matthews
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = amatthe5 from Gorepaud
+Student Abbie Matthews Third Party ID updated from third party id = amatthe5 to new third party id = abbie.matthews
+
+
+400008897,70074147,Abbie,Pultie
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = apultie from Gorepaud
+Student Abbie Pultie Third Party ID updated from third party id = apultie to new third party id = abbie.pultie
+
+

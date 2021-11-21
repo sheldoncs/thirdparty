@@ -1,0 +1,406 @@
+Start time: 1627438582197
+408002412,70018825,Anderson,Cumberbatch
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = acumbe21 from Gorepaud
+ORA-20100: ::Third party ID already exists.::
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS_RULES", line 382
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS", line 762
+ORA-06512: at line 1
+
+
+
+97617209,99010621,Alicia,Alleyne
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = aalley18 from Gorepaud
+Student Alicia Alleyne Third Party ID updated from third party id = aalley18 to new third party id = alicia.alleyne
+
+
+417002795,70063492,Crystal,Springer
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = csprin19 from Gorepaud
+ORA-20100: ::Third party ID already exists.::
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS_RULES", line 382
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS", line 762
+ORA-06512: at line 1
+
+
+
+20052103,70002847,Crystal,Springer
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = csprin10 from Gorepaud
+ORA-20100: ::Third party ID already exists.::
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS_RULES", line 382
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS", line 762
+ORA-06512: at line 1
+
+
+
+412000631,70039709,Gabriel,Moore
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = gmoore2 from Gorepaud
+ORA-20100: ::Third party ID already exists.::
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS_RULES", line 382
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS", line 762
+ORA-06512: at line 1
+
+
+
+407002771,70014272,Kyle,Edwards
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = kedwar11 from Gorepaud
+ORA-20100: ::Third party ID already exists.::
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS_RULES", line 382
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS", line 762
+ORA-06512: at line 1
+
+
+
+408002452,70018867,Andrea,Clarke
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = aclark25 from Gorepaud
+ORA-20100: ::Third party ID already exists.::
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS_RULES", line 382
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS", line 762
+ORA-06512: at line 1
+
+
+
+408001689,70018088,Angela,Miller
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = amiller7 from Gorepaud
+ORA-20100: ::Third party ID already exists.::
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS_RULES", line 382
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS", line 762
+ORA-06512: at line 1
+
+
+
+407000546,70011800,Arielle,Patrick
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = apatric2 from Gorepaud
+ORA-20100: ::Third party ID already exists.::
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS_RULES", line 382
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS", line 762
+ORA-06512: at line 1
+
+
+
+4
+
+
+5
+
+
+4
+
+
+5
+
+
+411000119,70033259,Brian,Gittens
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = bgittens from Gorepaud
+ORA-20100: ::Third party ID already exists.::
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS_RULES", line 382
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS", line 762
+ORA-06512: at line 1
+
+
+
+3
+
+
+6
+
+
+3
+
+
+6
+
+
+408002406,70018819,Christopher,Brathwaite
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = cbrath15 from Gorepaud
+ORA-20100: ::Third party ID already exists.::
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS_RULES", line 382
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS", line 762
+ORA-06512: at line 1
+
+
+
+407001218,70012548,Dario,Greenidge
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = dgreeni7 from Gorepaud
+ORA-20100: ::Third party ID already exists.::
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS_RULES", line 382
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS", line 762
+ORA-06512: at line 1
+
+
+
+20040339,50003372,David,Hall
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = dhall1 from Gorepaud
+Student David Hall Third Party ID updated from third party id = dhall1 to new third party id = david.hall
+
+
+413002678,70047827,David,King
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = dking3 from Gorepaud
+ORA-20100: ::Third party ID already exists.::
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS_RULES", line 382
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS", line 762
+ORA-06512: at line 1
+
+
+
+406001368,70007272,Deborah,Knight
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = dknight7 from Gorepaud
+ORA-20100: ::Third party ID already exists.::
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS_RULES", line 382
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS", line 762
+ORA-06512: at line 1
+
+
+
+414001752,70051642,Dominique,Harris
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = dharris8 from Gorepaud
+ORA-20100: ::Third party ID already exists.::
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS_RULES", line 382
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS", line 762
+ORA-06512: at line 1
+
+
+
+89963670,70021289,Eustace,Monrose
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = emonrose from Gorepaud
+ORA-20100: ::Third party ID already exists.::
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS_RULES", line 382
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS", line 762
+ORA-06512: at line 1
+
+
+
+415001580,70055053,Jalisa,Jordan
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = jjorda28 from Gorepaud
+ORA-20100: ::Third party ID already exists.::
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS_RULES", line 382
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS", line 762
+ORA-06512: at line 1
+
+
+
+409001423,70023116,Joshua,John
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = jjohn11 from Gorepaud
+ORA-20100: ::Third party ID already exists.::
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS_RULES", line 382
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS", line 762
+ORA-06512: at line 1
+
+
+
+20050864,70001565,Katrina,Edwards
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = kedward6 from Gorepaud
+ORA-20100: ::Third party ID already exists.::
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS_RULES", line 382
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS", line 762
+ORA-06512: at line 1
+
+
+
+400003185,70067473,Keira,Cave
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = kcave1 from Gorepaud
+ORA-20100: ::Third party ID already exists.::
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS_RULES", line 382
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS", line 762
+ORA-06512: at line 1
+
+
+
+412000119,70039174,Kevin,Griffith
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = kgriff30 from Gorepaud
+ORA-20100: ::Third party ID already exists.::
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS_RULES", line 382
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS", line 762
+ORA-06512: at line 1
+
+
+
+408000401,70016796,Marissa,King
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = mking18 from Gorepaud
+ORA-20100: ::Third party ID already exists.::
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS_RULES", line 382
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS", line 762
+ORA-06512: at line 1
+
+
+
+3604062,22016489,Melissa,Alleyne
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = malleyn5 from Gorepaud
+ORA-20100: ::Third party ID already exists.::
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS_RULES", line 382
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS", line 762
+ORA-06512: at line 1
+
+
+
+406001597,70007551,Nadia,Holder
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = nholder4 from Gorepaud
+Student Nadia Holder Third Party ID updated from third party id = nholder4 to new third party id = nadia.holder
+
+
+407000430,70011679,Nicole,Baptiste
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = nbaptis3 from Gorepaud
+Student Nicole Baptiste Third Party ID updated from third party id = nbaptis3 to new third party id = nicole.baptiste
+
+
+20042141,99002618,Patrice,Alleyne
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = palleyn8 from Gorepaud
+ORA-20100: ::Third party ID already exists.::
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS_RULES", line 382
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS", line 762
+ORA-06512: at line 1
+
+
+
+685387,99010599,Sandra,Cumberbatch
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = scumbe17 from Gorepaud
+ORA-20100: ::Third party ID already exists.::
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS_RULES", line 382
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS", line 762
+ORA-06512: at line 1
+
+
+
+408001106,70017501,Sarah,Joseph
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = sjosep23 from Gorepaud
+ORA-20100: ::Third party ID already exists.::
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS_RULES", line 382
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS", line 762
+ORA-06512: at line 1
+
+
+
+410003942,70032332,Shakira,Belgrave
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = sbelgrav from Gorepaud
+ORA-20100: ::Third party ID already exists.::
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS_RULES", line 382
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS", line 762
+ORA-06512: at line 1
+
+
+
+412001048,70040163,Shaquille,Williams
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = swilli56 from Gorepaud
+ORA-20100: ::Third party ID already exists.::
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS_RULES", line 382
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS", line 762
+ORA-06512: at line 1
+
+
+
+408003457,70020028,Shari,Clarke
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = sclark40 from Gorepaud
+ORA-20100: ::Third party ID already exists.::
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS_RULES", line 382
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS", line 762
+ORA-06512: at line 1
+
+
+
+400002627,70066820,Sharon,Ifill
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = sifill9 from Gorepaud
+ORA-20100: ::Third party ID already exists.::
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS_RULES", line 382
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS", line 762
+ORA-06512: at line 1
+
+
+
+416000321,70056986,Shontelle,Sealy
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = ssealy21 from Gorepaud
+ORA-20100: ::Third party ID already exists.::
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS_RULES", line 382
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS", line 762
+ORA-06512: at line 1
+
+
+
+4
+
+
+5
+
+
+410002497,70030391,Stephanie,Lucas
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = slucas from Gorepaud
+ORA-20100: ::Third party ID already exists.::
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS_RULES", line 382
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS", line 762
+ORA-06512: at line 1
+
+
+
+410001278,70029094,Tiffany,Browne
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = tbrowne3 from Gorepaud
+ORA-20100: ::Third party ID already exists.::
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS_RULES", line 382
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS", line 762
+ORA-06512: at line 1
+
+
+
+409001284,70022977,Tiffany,Payne
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = tpayne2 from Gorepaud
+ORA-20100: ::Third party ID already exists.::
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS_RULES", line 382
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS", line 762
+ORA-06512: at line 1
+
+
+
+409000133,70021682,Tracy,Watson
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = twatson6 from Gorepaud
+ORA-20100: ::Third party ID already exists.::
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS_RULES", line 382
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS", line 762
+ORA-06512: at line 1
+
+
+
+408000869,70017264,William,Clarke
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = wclarke5 from Gorepaud
+ORA-20100: ::Third party ID already exists.::
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS_RULES", line 382
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS", line 762
+ORA-06512: at line 1
+
+
+
+End Time: 1627438784196

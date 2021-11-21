@@ -1,0 +1,11 @@
+Error Counter = 1
+SPRIDEN_ID,FIRST_NAME,LAST_NAME,THIRD_PARTY_ID,NEW_THIRD_PARTY_ID
+807002292,Matthew,Jordan,mjordan4,matthew.jordan
+ORA-20100: ::Cannot create, record already exists.::
+ORA-06512: at "BANINST1.GB_EMAIL", line 274
+ORA-06512: at "GENERAL.ADAP_CREATE_EMAIL_TRG", line 82
+ORA-04088: error during execution of trigger 'GENERAL.ADAP_CREATE_EMAIL_TRG'
+ORA-06512: at "BANINST1.DML_GOBTPAC", line 42
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS", line 833
+ORA-06512: at line 1
+

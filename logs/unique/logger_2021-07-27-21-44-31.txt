@@ -1,0 +1,110 @@
+Start time: 1627436671698
+4
+
+
+5
+
+
+3
+
+
+6
+
+
+4
+
+
+5
+
+
+412002178,70041353,Aisha,Alleyne
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = acallen1 from Gorepaud
+ORA-20100: ::Third party ID already exists.::
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS_RULES", line 382
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS", line 762
+ORA-06512: at line 1
+
+
+
+3
+
+
+6
+
+
+20041146,99008178,Alicia,Hurley
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = apayne3 from Gorepaud
+Student Alicia Hurley Third Party ID updated from third party id = apayne3 to new third party id = alicia.hurley
+
+
+408001441,70017835,Alicia,Brathwaite
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = awalco12 from Gorepaud
+ORA-20100: ::Third party ID already exists.::
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS_RULES", line 382
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS", line 762
+ORA-06512: at line 1
+
+
+
+02610435,99011220,Allison,Dasantos
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = asugrim1 from Gorepaud
+Student Allison Dasantos Third Party ID updated from third party id = asugrim1 to new third party id = allison.dasantos
+
+
+01607507,99010771,Allyson,Murray
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = apenneg1 from Gorepaud
+ORA-20100: ::Third party ID already exists.::
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS_RULES", line 382
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS", line 762
+ORA-06512: at line 1
+
+
+
+4
+
+
+5
+
+
+4
+
+
+5
+
+
+4
+
+
+5
+
+
+406002565,70008548,Andrea,Barrow
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = ajorda12 from Gorepaud
+ORA-20100: ::Third party ID already exists.::
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS_RULES", line 382
+ORA-06512: at "BANINST1.GB_THIRD_PARTY_ACCESS", line 762
+ORA-06512: at line 1
+
+
+
+4
+
+
+5
+
+
+04600045,30539,Angela,Carrington-Dyall
+delete 'GORPAUD' records
+Removing Student Third Party record Third Party ID = acarrin3 from Gorepaud
+Student Angela Carrington-Dyall Third Party ID updated from third party id = acarrin3 to new third party id = angela.carrington-dyall
+
+
+4
+
+
